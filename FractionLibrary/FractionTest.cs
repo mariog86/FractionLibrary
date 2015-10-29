@@ -13,6 +13,7 @@ namespace FractionLibrary
         [Test]
         public void FirstTest()
         {
+            Assert.Fail();
         }
     }
 }
